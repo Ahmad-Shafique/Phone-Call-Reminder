@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone Call Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="checkCurrentContactListButtonText">Check current contact list</string>
+    <string name="nameQueryTextView">Name :</string>
+    <string name="inputNameFieldHint">Input your name here</string> 
+    <string name="numberQueryTextViewText">Number :</string>
+    <string name="inputNumberFieldHint">Intput your number here</string>
+    <string name="numberOfDaysQueryTextView">Number of days per call :</string>
+    <string name="addMeButtonText">Add Me</string>
+</resources>
