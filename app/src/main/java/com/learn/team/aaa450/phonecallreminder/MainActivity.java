@@ -17,13 +17,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.content_main);
     }
 }
-
+/*
 class RunInBackground{
     /*
-    1)Execute everytime the phone starts up
+    1)Execute every time the phone starts up
     2)Keep running in background
-     */
+     //*
 }
+*/
 
 class DetectIncomingCalls{
     /*
